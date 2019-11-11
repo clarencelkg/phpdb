@@ -1,3 +1,3 @@
 Welcome to OpenShift Version3.9 !!
 
-Try /dbtest.php extension 
+Try /phpdb.php extension 
